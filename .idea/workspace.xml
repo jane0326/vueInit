@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a35e075f-feaa-4642-9165-3c16b95e49fb" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KVue.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KVue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2880">
+              <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="35" />
+              <folding>
+                <element signature="e#1365#1422#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Compile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Compile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2280">
+              <caret line="76" column="55" lean-forward="false" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+              <folding>
+                <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+                <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+                <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+                <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+                <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+                <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+                <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+                <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+                <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readMe" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readMe">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vue.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/vue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22740">
+              <caret line="762" column="17" lean-forward="false" selection-start-line="762" selection-start-column="17" selection-end-line="762" selection-end-column="17" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Dep.targe</find>
+      <find>isVueDirective</find>
+      <find>context</find>
+      <find>Comp</find>
+      <find>observer</find>
+      <find>Watcher</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/compile.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Compile.js" />
+        <option value="$PROJECT_DIR$/KVue.js" />
+        <option value="$PROJECT_DIR$/readMe" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vueInit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueInit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
+    <property name="last_opened_file_path" value="C:/Program Files/nodejs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a35e075f-feaa-4642-9165-3c16b95e49fb" name="Default" comment="" />
+      <created>1547043889871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547043889871</updated>
+      <workItem from="1547043891428" duration="2895000" />
+      <workItem from="1547047001077" duration="21000" />
+      <workItem from="1547084642714" duration="7461000" />
+      <workItem from="1547172870030" duration="6946000" />
+      <workItem from="1547260651637" duration="13899000" />
+      <workItem from="1547357492807" duration="1202000" />
+      <workItem from="1566312208090" duration="598000" />
+      <workItem from="1566353000545" duration="8590000" />
+      <workItem from="1566459387471" duration="2468000" />
+      <workItem from="1566549120760" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44086000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1553719" sideWeight="0.50298065" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37190083" sideWeight="0.49701938" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="35" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="76" column="55" lean-forward="true" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22860">
+          <caret line="762" column="17" lean-forward="false" selection-start-line="762" selection-start-column="17" selection-end-line="762" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="76" column="55" lean-forward="true" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22860">
+          <caret line="762" column="17" lean-forward="true" selection-start-line="762" selection-start-column="17" selection-end-line="762" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="35" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="103" column="29" lean-forward="false" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="103" column="29" lean-forward="true" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2500">
+          <caret line="103" column="29" lean-forward="true" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="57" lean-forward="false" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="45" column="35" lean-forward="true" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22740">
+          <caret line="762" column="17" lean-forward="false" selection-start-line="762" selection-start-column="17" selection-end-line="762" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="76" column="55" lean-forward="false" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!block;n#textUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#htmlUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#modelUpdater#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#html#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#model#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueDirective#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isVueEvent#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isTextNode#0;n#Compile#0" expanded="false" />
+            <element signature="n#!!block;n#isElementNode#0;n#Compile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="35" />
+          <folding>
+            <element signature="e#1365#1422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

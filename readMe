@@ -1,0 +1,21 @@
+this.$data和this.data一样吗？
+    创建的vue实例中，应该没有data属性，只有$data属性，vue内部的变量一般都用$开头定义，为了和不属于vue的变量进行区分。
+
+
+
+//给obj的属性添加get、set方法，以实现对数据的拦截，达到监听的目的。get属性（访问数据值）时，收集监听对象，set修改属性值时，通知所有监听对象去更新自己。
+
+var obj ={name:"张三"};
+
+Object.defineProperty(obj,name,{
+    get:function(){
+
+    },
+    set:function(newValue){
+
+    }
+})
+
+
+此项目实现了一个简单的Vuejs，可以编译简单的模板语法，实现声明式渲染、响应式渲染。
+

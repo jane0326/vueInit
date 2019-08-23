@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VUE 源码</title>
+</head>
+<body>
+<div id="app">
+    <p>{{name}}</p>
+    <p k-text="age"></p>
+    <p k-html="name"></p>
+    <input type="text" k-model="name"/>
+    <button @click="handleChange">点我</button>
+</div>
+<script src="./KVue.js"></script>
+<script src="./Compile.js"></script>
+<script type="text/javascript">
+    const vm = new KVue({
+        el:"#app",
+        data:{
+            name:"开课吧",
+            age:12,
+        },
+        created(){
+          setTimeout(()=>{
+              this.name = "这里是created方法内修改之后的name"
+          },2000);
+        },
+        methods:{
+            handleChange(){
+                this.name = "点我修改name为VUE源码实现"
+            }
+        }
+    })
+</script>
+</body>
+</html>
